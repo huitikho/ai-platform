@@ -1,0 +1,4 @@
+name: sentiment_analysis_model_env: conda.yaml
+
+entry_points:
+     command: "python sentiment_analysis_mode.py"
